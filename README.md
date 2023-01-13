@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
-npx create-react-app my-app
+npx create-react-app dexlaapp
 cd my-app
 
 npm i axios 
+
 This will install your dependency to help call the figma API call since the api is base on the Rest API logic
+
 ## Available Scripts
 
 In the project directory, you can run:
